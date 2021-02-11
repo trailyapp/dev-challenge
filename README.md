@@ -1,7 +1,7 @@
 # Traily Dev Challenge
 
 ## What Is This?
-This is a 30 minutes developer challange to do so we at Traily can inspect your software development skills. You are going to develop a simple location input which is going to make input suggestions. You will have to design the application accordingly to a Figma Template and use a specific API.
+This is a 30 minutes developer challange so we at Traily can verify your software development skills. You are going to create an input field which will suggest locations as the user starts typing. You will have to design the application accordingly to a Figma Desing and use the opendata transport API.
 
 ### Skills Tested
 - Vue
@@ -12,7 +12,7 @@ This is a 30 minutes developer challange to do so we at Traily can inspect your 
 ## How To
 ### Project Setup
 1. Use this repository as a template to create a private repository.
-2. Clone the just created repository.
+2. Clone the created repository.
 2. Install the dependencies: `npm install`
 4. Prepare for development: `npm run serve`
 
