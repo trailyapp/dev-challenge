@@ -17,8 +17,8 @@ This is a 30 minutes developer challange needed to do so we at traily can inspec
 4. Prepare for development: `npm run serve`
 
 ### Start Working
-1. Follow the design instructions visible [HERE](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
-2. Use the opendata api to fetch the locations as the user starts typing.
+1. Follow the design instructions visible [here](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
+2. Use the api to fetch suggestions [here](https://transport.opendata.ch/).
 
 ### Finish
 ...
