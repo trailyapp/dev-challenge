@@ -1,7 +1,7 @@
 # Traily Dev Challenge
 
 ## What Is This?
-This is a 30 minutes developer challange so we at Traily can verify your software development skills. You are going to create an input field which will suggest locations as the user starts typing. You will have to design the application accordingly to a Figma Desing and use the opendata transport API.
+This is a 30 minutes developer challange so we at Traily can verify that you have the required skills. You are going to create an input field which will suggest locations as the user starts typing. You will have to design the application accordingly to a Figma Desing and use the opendata transport API.
 
 ### Skills Tested
 - Vue
