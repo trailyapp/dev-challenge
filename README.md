@@ -25,4 +25,4 @@ This is a 30 minutes developer challange needed to do so we at traily can inspec
 - To fetch suggestions use the Transport API
 
 ### Finish
-...
+Add the `Traily-Kickbox` account as collaborator to your repository.
