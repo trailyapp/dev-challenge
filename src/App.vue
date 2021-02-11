@@ -1,5 +1,5 @@
 <template>
   
 </template>
-<script sry="./App.js" />
+<script src="./App.js" />
 <style src="./App.css" />
