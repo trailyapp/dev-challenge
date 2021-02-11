@@ -17,8 +17,8 @@ This is a 30 minutes developer challange to do so we at Traily can inspect your 
 4. Prepare for development: `npm run serve`
 
 ### Start Working
-- Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586)
-- To fetch suggestions use the [Transport API](https://transport.opendata.ch/)
+- Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
+- To fetch suggestions use the [Transport API](https://transport.opendata.ch/).
 
 ### Finish
 1. Push the application to your repository.
