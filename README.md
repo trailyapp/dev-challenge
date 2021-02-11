@@ -1,19 +1,15 @@
-# traily-dev-challenge
+# Traily Dev Challenge
 
-## Project setup
-```
-npm install
-```
+## How to
+### Project setup
+1. Fork the repository.
+2. Clone the forked repository.  
+3. Install all dependencies with `npm install`.
 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Submit
+Create a new pull request to merge your changes and submit your work. Leave your name as comment!
