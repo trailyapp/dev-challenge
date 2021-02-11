@@ -14,7 +14,7 @@
 ### Finish
 Create a new pull request to merge your changes and submit your work. Leave your name as comment!
 
-##Information
+## Information
 ### Skills Used
 - Vue 3
 - HTML
