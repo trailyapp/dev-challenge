@@ -18,6 +18,7 @@ This is a 30 minutes developer challange so we can verify that you have the requ
 
 ### Start Working
 - Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
+- For the CSS class naming use [BEM](http://getbem.com/).
 - To fetch suggestions use the [Transport API](https://transport.opendata.ch/).
 
 ### Finish
