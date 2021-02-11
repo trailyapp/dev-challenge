@@ -10,7 +10,7 @@ This is a 30 minutes dev challange needed to do so we at traily can inspect your
 
 ## How To
 ### Project Setup
-1. Create a PRIVATE repository using this template.
+1. Use this repository template to create a private repository.
 2. Clone your repository.
 2. Install the dependencies: `npm install`
 4. Compiles and hot-reloads for development: `npm run serve`
@@ -20,4 +20,4 @@ This is a 30 minutes dev challange needed to do so we at traily can inspect your
 2. Use the opendata api to fetch the locations as the user starts typing.
 
 ### Finish
-Create a new pull request to merge your changes and submit your work. Leave your name as comment!
+...
