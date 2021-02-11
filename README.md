@@ -18,7 +18,7 @@ This is a dev challange needed to do so we at traily can inspect your software d
 Create a new pull request to merge your changes and submit your work. Leave your name as comment!
 
 ## Information
-### Skills Used
+### Skills Tested
 - Vue 3
 - HTML
 - CSS
