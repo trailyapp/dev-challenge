@@ -1,7 +1,7 @@
 # Traily Dev Challenge
 
 ## Whats This?
-This is a dev challange needed to do so we at traily can inspect your software development skills. Youi are going to develop...
+This is a 30 minutes dev challange needed to do so we at traily can inspect your software development skills. Youi are going to develop...
 
 ## How To
 ### Project Setup
