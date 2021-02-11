@@ -1,10 +1,10 @@
 # Traily Dev Challenge
 
 ## What Is This?
-This is a 30 minutes developer challange so we can verify that you have the required skills to work as a frontend developer for Traily. You are going to create an input field which will suggest locations as the user starts typing. Below, you can find links to a Figma Desing and the Opendata transport API, according to which you need to design the input field.
+This is a 30 minutes developer challange so we can verify that you have the required skills to work as a frontend developer for Traily. You are going to create an input field which will suggest locations as the user starts typing. Below you will find links to a Figma Template, an explanaition of BEM and the Transport API. You have to create the application according to these resources.
 
 ### Skills Tested
-- Vue 3
+- Vue
 - HTML
 - CSS
 - JavaScript
