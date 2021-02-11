@@ -11,7 +11,7 @@ This is a 30 minutes developer challange so we can verify that you have the requ
 
 ## How To
 ### Project Setup
-1. Use this repository as a template to create a private repository and call it "traily-\<first name\>-\<last name\>". (NOT A FORK!)
+1. Use this repository as a template to create a private repository and put your first and last name into the description. (NOT A FORK!)
 2. Clone the created repository.
 2. Install the dependencies: `npm install`
 4. Prepare for development: `npm run serve`
