@@ -21,5 +21,5 @@ This is a 30 minutes developer challange so we can verify that you have the requ
 - To fetch suggestions use the [Transport API](https://transport.opendata.ch/).
 
 ### Finish
-1. Push the application to your repository.
+1. Commit and push the changes to your repository.
 2. Add `Traily-Kickbox` as collaborator to your repository.
