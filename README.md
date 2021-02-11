@@ -1,7 +1,7 @@
 # Traily Dev Challenge
 
 ## What Is This?
-This is a 30 minutes developer challange needed to do so we at traily can inspect your software development skills. You are going to develop a simple location input which is going to make input suggestions. You will have to design the app accordingly to a Figma design.
+This is a 30 minutes developer challange needed to do so we at Traily can inspect your software development skills. You are going to develop a simple location input which is going to make input suggestions. You will have to design the application accordingly to a Figma Template and use a specific API.
 
 ### Skills Tested
 - Vue
@@ -21,8 +21,8 @@ This is a 30 minutes developer challange needed to do so we at traily can inspec
 4. Prepare for development: `npm run serve`
 
 ### Start Working
-- Make sure to strictly follow the Figma Template
-- To fetch suggestions use the Transport API
+- Make sure to strictly follow the Figma Template.
+- To fetch suggestions use the Transport API.
 
 ### Finish
 Add the `Traily-Kickbox` account as collaborator to your repository.
