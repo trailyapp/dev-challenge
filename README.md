@@ -15,7 +15,7 @@ This is a 30 minutes developer challange to do so we at Traily can inspect your 
 
 ## How To
 ### Project Setup
-1. Use this repository template to create a private repository. (NOT A FORK!)
+1. Use this repositorys template to create a private repository.
 2. Clone your created repository.
 2. Install the dependencies: `npm install`
 4. Prepare for development: `npm run serve`
@@ -25,4 +25,5 @@ This is a 30 minutes developer challange to do so we at Traily can inspect your 
 - To fetch suggestions use the Transport API.
 
 ### Finish
-Add the `Traily-Kickbox` account as collaborator to your repository.
+1. Push the application to your repository.
+2. Add `Traily-Kickbox` as collaborator to your repository.
