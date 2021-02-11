@@ -10,7 +10,7 @@ This is a 30 minutes dev challange needed to do so we at traily can inspect your
 
 ## How To
 ### Project Setup
-1. Use this repository template to create a private repository.
+1. Use this repository template to create a public repository.
 2. Clone your repository.
 2. Install the dependencies: `npm install`
 4. Compiles and hot-reloads for development: `npm run serve`
