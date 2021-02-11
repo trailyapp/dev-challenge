@@ -11,8 +11,8 @@ This is a 30 minutes developer challange to do so we at Traily can inspect your 
 
 ## How To
 ### Project Setup
-1. Use this repositorys template to create a private repository.
-2. Clone your created repository.
+1. Use this repository as a template to create a private repository.
+2. Clone the just created repository.
 2. Install the dependencies: `npm install`
 4. Prepare for development: `npm run serve`
 
