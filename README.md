@@ -5,9 +5,9 @@ This is a 30 minutes developer challange so we can verify that you have the requ
 
 ### Skills Tested
 - Vue
-- HTML
 - CSS
 - JavaScript
+- (HTML)
 
 ## How To
 ### Prerequisites
