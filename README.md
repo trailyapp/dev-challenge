@@ -10,6 +10,10 @@ This is a 30 minutes developer challange so we can verify that you have the requ
 - JavaScript
 
 ## How To
+### Prerequisites
+* [Node.js](https://nodejs.org/en/) has to be installed on the system.
+* Vue CLI should be installed globally `npm install -g @vue/cli`
+
 ### Project Setup
 1. Use this repository as a template to create a private repository and put your first and last name into the description. (NOT A FORK!)
 2. Clone the created repository.
