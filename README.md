@@ -13,12 +13,13 @@
 ### Prepare Project
 1. Use this repository as a template to create a private repository and put your first and last name into the description. (NOT A FORK!)
 2. Clone the created repository.
-2. Follow the instructions mentioned in [Setup](#Setup)
+3. The instructions mentioned in [Setup](#Setup) will tell you more about your local development environment.
 
 ### Start Working
 - Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
-- For the CSS class naming, you are going to use BEM. [(Documentation below)](#Documentation)
-- To fetch suggestions use the Transport API. [(Documentation below)](#Documentation)
+- For the CSS class naming, you are going to use BEM.
+- To fetch suggestions use the Transport API.
+- Don't forget to read the documentations about [BEM & the Transport API](#Documentation)!
 
 ### Finish
 1. Commit and push the changes to your repository.
