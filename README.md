@@ -11,7 +11,7 @@
 ## How To
 
 ### Prepare Project
-1. Use this repository as a template to create a private repository and put your first and last name into the description. (NOT A FORK!)
+1. Use this repository as a template to create a private repository and put your first and last name into the description.
 2. Clone the created repository.
 3. The instructions mentioned in [Setup](#Setup) will tell you more about your local development environment.
 
