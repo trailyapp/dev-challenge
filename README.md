@@ -17,8 +17,8 @@
 
 ### Start Working
 - Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
-- For the CSS class naming, you are going to use BEM.
-- To fetch suggestions use the Transport API.
+- For the CSS class naming, you are going to use BEM. [(Documentation below)](#Documentation)
+- To fetch suggestions use the Transport API. [(Documentation below)](#Documentation)
 
 ### Finish
 1. Commit and push the changes to your repository.
