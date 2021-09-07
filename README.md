@@ -47,8 +47,6 @@ npm run build
 
 
 ## Documentation
-
-* [Traily Docs](https://docs.ttapp.traily.ch)
 * [Vue.js](https://v3.vuejs.org/guide/introduction.html)
 * [BEM](http://getbem.com/)
 * [Transport API](https://transport.opendata.ch/docs.html)
