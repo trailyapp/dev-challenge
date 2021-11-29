@@ -16,7 +16,7 @@
 3. The instructions mentioned in [Setup](#Setup) will tell you more about your local development environment.
 
 ### Start Working
-- Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586).
+- Make sure to strictly follow the [Figma Template](https://www.figma.com/file/gZKinnendF1Js5w0lAEFI6?node-id=1%3A2980&viewport=-1027%2C269%2C0.6635387539863586). (Create an Account to use inspect mode)
 - For the CSS class naming, you are going to use BEM.
 - To fetch suggestions use the Transport API.
 - Don't forget to read the documentations about [BEM & the Transport API](#Documentation)!
