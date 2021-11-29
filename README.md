@@ -23,7 +23,7 @@
 
 ### Finish
 1. Commit and push the changes to your repository.
-2. Add `Traily-Kickbox` as collaborator to your repository.
+2. Invite `GeneTv` as collaborator to your repository.
 
 ## Setup
 ### Prerequisites
